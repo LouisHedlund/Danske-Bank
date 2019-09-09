@@ -13,7 +13,7 @@ public class Program
 	int[][] inputGraph = new int[][] 
 	{
     	new int[] {215},
-		new int[] {192, 124},
+	new int[] {192, 124},
         new int[] {117, 269, 442},
         new int[] {218, 836, 347, 235},
         new int[] {320, 805, 522, 417, 345},
